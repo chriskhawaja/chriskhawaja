@@ -3,5 +3,5 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 <b>Microsoft Azure</b>
- - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/chriskhawaja/azure-network-protocols)
+ - [Analyzing Network Traffic and Implementing Network Security Groups](https://github.com/chriskhawaja/azure-network-protocols)
 
