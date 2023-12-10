@@ -9,4 +9,4 @@
 -  [Creating and Using a Help Desk Ticketing System](https://github.com/chriskhawaja/ticketingsystem)
 
 <b>Office 365</b>
- - [Practicing Administrative Roles and Actions within Office 365](https://github.com/chriskhawaja/azure-network-protocols)
+ - [Practicing Administrative Roles and Actions within Office 365](https://github.com/chriskhawaja/office365)
