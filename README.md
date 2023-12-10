@@ -4,4 +4,4 @@
 
 <b>Microsoft Azure</b>
  - [Analyzing Network Traffic and Implementing Network Security Groups](https://github.com/chriskhawaja/azure-network-protocols)
-
+-  [Setting Up a Virtual Private Network in a Virtual Machine](https://github.com/chriskhawaja/vpn)
