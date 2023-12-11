@@ -4,7 +4,7 @@
 
 <b>Microsoft Azure</b>
  - [Analyzing Network Traffic and Implementing Network Security Groups](https://github.com/chriskhawaja/azure-network-protocols)
--  [Setting Up a Virtual Private Network in a Virtual Machine](https://github.com/chriskhawaja/vpn)
+-  [Setting Up a VPN in a Virtual Machine](https://github.com/chriskhawaja/vpn)
 -  [Installing Active Directory in Microsoft Azure](https://github.com/chriskhawaja/activedirectory)
 -  [Creating and Managing a Help Desk Ticketing System](https://github.com/chriskhawaja/ticketingsystem)
 
