@@ -8,6 +8,7 @@
 -  [Installing Active Directory in Microsoft Azure](https://github.com/chriskhawaja/activedirectory)
     -  [Utilization of Active Directory](https://github.com/chriskhawaja/activedirectoryutilization)
 -  [Creating a Help Desk Ticketing System](https://github.com/chriskhawaja/ticketingsystem)
-
+    -  [Administration of a Help Desk Ticketing System](https://github.com/chriskhawaja/ticketingsystemadmin)
+      
 <b>Office 365</b>
  - [Practicing Administrative Roles and Actions within Office 365](https://github.com/chriskhawaja/office365)
