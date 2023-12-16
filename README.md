@@ -11,4 +11,5 @@
     -  [Administration of a Help Desk Ticketing System](https://github.com/chriskhawaja/ticketingsystemadmin)
       
 <b>Office 365</b>
- - [Practicing Administrative Roles and Actions within Office 365](https://github.com/chriskhawaja/office365)
+ - [Installing the Microsoft Office 365 Developer Program (E5 Subscription)](https://github.com/chriskhawaja/office365)
+ - [Utilizing Administrative Roles and Actions within Office 365](https://github.com/chriskhawaja/office365)
