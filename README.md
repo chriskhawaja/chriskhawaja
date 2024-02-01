@@ -13,3 +13,9 @@
 <b>Office 365</b>
  - [Installing the Microsoft Office 365 Developer Program (E5 Subscription)](https://github.com/chriskhawaja/office365)
  - [Utilizing Administrative Roles and Actions within Office 365](https://github.com/chriskhawaja/office365admin)
+
+
+
+
+<b>Linux Personal Projects (Raspberry Pi 4)</b>
+- [Turning a Raspberry Pi into an at-home print server via CUPS and Samba](https://github.com/chriskhawaja/office365)
