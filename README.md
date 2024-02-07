@@ -18,4 +18,4 @@
 
 
 <b>Linux Personal Projects (Raspberry Pi 4)</b>
-- [Turning a Raspberry Pi into an at-home print server via CUPS and Samba](https://github.com/chriskhawaja/PiPrintServer)
+- [Turning a Raspberry Pi into an at-home print server via CUPS](https://github.com/chriskhawaja/PiPrintServer)
