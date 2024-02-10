@@ -19,4 +19,4 @@
 
 <b>Linux Personal Projects</b>
 - [Turning a Raspberry Pi into an at-home Print Server via CUPS](https://github.com/chriskhawaja/PiPrintServer)
-- [Building and Hosting a Minecraft Server on a Raspberry Pi](https://github.com/chriskhawaja/PiPrintServer)
+- [Building and Hosting a Minecraft Server on a Raspberry Pi](https://github.com/chriskhawaja/MinecraftServer)
